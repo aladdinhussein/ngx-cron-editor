@@ -1,5 +1,5 @@
 {
-  "name": "@aladdinhussein/ngx-cron-editor",
+  "name": "@ventiv/ngx-cron-editor",
   "description": "A cron expression generator for Angular 9+",
   "author": "Ryan Morlok",
   "contributors": [
