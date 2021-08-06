@@ -15,12 +15,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/zapinfo/ngx-cron-editor"
+    "url": "git://github.com/aladdinhussein/ngx-cron-editor"
   },
   "bugs": {
-    "url": "https://github.com/zapinfo/ngx-cron-editor/issues"
+    "url": "https://github.com/aladdinhussein/ngx-cron-editor/issues"
   },
-  "homepage": "https://github.com/zapinfo/ngx-cron-editor",
+  "homepage": "https://github.com/aladdinhussein/ngx-cron-editor",
   "keywords": [
     "angular",
     "cron",
