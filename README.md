@@ -11,7 +11,7 @@ editor.
 
 To run the sample app just run `npm run start` and go to `http://localhost:4444/`. The app will automatically reload if you change any of the source files.
 
-This library is published to NPM and Github as: `@zapinfo/ngx-cron-editor`
+This library is published to NPM and Github as: `@aladdinhussein/ngx-cron-editor`
 
 ## Demo
 
@@ -21,13 +21,13 @@ A work-in-progress demo can be found [here](https://esarmientoe.github.io/cron-e
 
 1. Install the npm package:
     ```
-    $ npm i @zapinfo/ngx-cron-editor -S
+    $ npm i @aladdinhussein/ngx-cron-editor -S
     ```
 
 2. Import the module in your own module:
 
     ```ts
-    import { CronEditorModule } from '@zapinfo/ngx-cron-editor';
+    import { CronEditorModule } from '@aladdinhussein/ngx-cron-editor';
 
     @NgModule({
         imports: [..., CronEditorModule],
@@ -52,7 +52,7 @@ A work-in-progress demo can be found [here](https://esarmientoe.github.io/cron-e
 ```
 
 ```ts
-import { CronOptions } from "@zapinfo/ngx-cron-editor";
+import { CronOptions } from "@aladdinhussein/ngx-cron-editor";
 
 @Component({
     ...
