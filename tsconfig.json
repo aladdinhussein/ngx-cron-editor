@@ -19,5 +19,8 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "module": "es2015"
+  },
+  "angularCompilerOptions": {
+    "enableIvy": false
   }
 }
